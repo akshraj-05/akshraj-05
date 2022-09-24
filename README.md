@@ -14,5 +14,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshraj-05&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshraj-05&layout=compact) 
 
