@@ -17,6 +17,61 @@
 
 ---
 
+## Open-Source Contributions — 18 Merged PRs
+
+<p>
+  <strong>18 merged pull requests</strong> across four Elastic open-source repositories:
+  <strong>12 Integrations · 4 Elasticsearch · 1 Kibana · 1 Workflows</strong>
+</p>
+
+Primary author of the **IBM QRadar**, **IRONSCALES**, and **BeyondTrust EPM** integrations, plus the **Google Threat Intelligence (GTI) connector** and related workflows.
+
+<details>
+<summary><strong>Elastic Integrations — 12 merged PRs</strong></summary>
+
+1. [#20566 — Set X-FP headers for Flashpoint HTTP requests](https://github.com/elastic/integrations/pull/20566)
+2. [#20465 — Add Google Threat Intelligence vulnerability data stream](https://github.com/elastic/integrations/pull/20465)
+3. [#20010 — Initial release of BeyondTrust EPM](https://github.com/elastic/integrations/pull/20010)
+4. [#19465 — Improve BeyondTrust EPM Audit configuration and tests](https://github.com/elastic/integrations/pull/19465)
+5. [#18707 — Add BeyondTrust EPM Event data stream](https://github.com/elastic/integrations/pull/18707)
+6. [#18635 — Add BeyondTrust EPM Audit data stream](https://github.com/elastic/integrations/pull/18635)
+7. [#18097 — Add Forescout Host data stream](https://github.com/elastic/integrations/pull/18097)
+8. [#16741 — Add Flashpoint Vulnerability data stream](https://github.com/elastic/integrations/pull/16741)
+9. [#16726 — Add Flashpoint Indicator data stream](https://github.com/elastic/integrations/pull/16726)
+10. [#16714 — Add Flashpoint Alert data stream](https://github.com/elastic/integrations/pull/16714)
+11. [#15982 — Initial release of IRONSCALES integration](https://github.com/elastic/integrations/pull/15982)
+12. [#15302 — Initial release of IBM QRadar](https://github.com/elastic/integrations/pull/15302)
+
+</details>
+
+<details>
+<summary><strong>Elasticsearch — 4 merged PRs</strong></summary>
+
+1. [#138094 — Fix IRONSCALES ILM policy delete step](https://github.com/elastic/elasticsearch/pull/138094)
+2. [#138485 — Backport fix to 9.2](https://github.com/elastic/elasticsearch/pull/138485)
+3. [#138486 — Backport fix to 9.1](https://github.com/elastic/elasticsearch/pull/138486)
+4. [#138487 — Backport fix to 8.19](https://github.com/elastic/elasticsearch/pull/138487)
+
+</details>
+
+<details>
+<summary><strong>Kibana — 1 merged PR</strong></summary>
+
+- [#285533 — Add Google Threat Intelligence connector](https://github.com/elastic/kibana/pull/285533)
+
+</details>
+
+<details>
+<summary><strong>Elastic Workflows — 1 merged PR</strong></summary>
+
+- [#60 — Add Google Threat Intelligence workflows](https://github.com/elastic/workflows/pull/60)
+
+</details>
+
+*The three Elasticsearch backports are separate merged pull requests and are counted individually.*
+
+---
+
 ## About Me
 
 - 💼 Software Engineer at **Crest Data**, working on backend platforms, AI-assisted engineering workflows, and security-data integrations.
@@ -28,7 +83,6 @@
 
 ## Highlights
 
-- **18 merged pull requests** across four Elastic open-source repositories.
 - Primary author of **three Elastic integrations**: IBM QRadar, IRONSCALES, and BeyondTrust EPM.
 - Contributed a fix to **Elasticsearch core**, backported to three releases.
 - Built a raw-log onboarding pipeline used for **200+ vendors**, reducing onboarding turnaround from 5 days to 10 minutes.
@@ -40,7 +94,7 @@
 ### Software Engineer · Crest Data
 *December 2023 – Present | Ahmedabad, India*
 
-- Shipped 18 merged PRs across Elasticsearch, Kibana, and Elastic Integrations; primary author of three integrations and the GTI action connector in Kibana.
+- Shipped **18 merged PRs across four Elastic repositories**: Integrations, Elasticsearch, Kibana, and Workflows.
 - Worked end-to-end on a multi-agent orchestration platform using **FastAPI, PostgreSQL, and Temporal**, spanning workflow, context-retrieval, and ingestion services; authored its HLD/LLD designs.
 - Developed a **LangGraph + Gemini** agent that generates Technical Design Documents from schemas retrieved through MCP tool servers, reducing turnaround from 3 days to 5 minutes.
 - Built a raw-log onboarding pipeline that infers event schemas across JSON/NDJSON, CSV, TSV, key-value, and syslog formats. It became the onboarding path for 200+ vendors and reduced turnaround from 5 days to 10 minutes.
@@ -75,15 +129,6 @@
 - An earlier project listed on my LinkedIn profile: a web application for sharing anonymous secrets.
 - Implemented Google OAuth 2.0 authentication, bcrypt password hashing, and session-based login caching.
 
-## Open-Source Contributions
-
-- **Elasticsearch / Kibana / Elastic Integrations:** 18 merged PRs across four repositories.
-- **Elastic Integrations:** Primary author of IBM QRadar, IRONSCALES, and BeyondTrust EPM integrations.
-- **Kibana:** Authored the GTI action connector and its workflows, enabling alerting rules to enrich detections with threat-intelligence lookups.
-- **Elasticsearch:** One core fix backported to three releases.
-
-See my [GitHub repositories](https://github.com/akshraj-05?tab=repositories) and [contributions](https://github.com/akshraj-05?tab=activity).
-
 ## Technical Skills
 
 | Area | Technologies |
@@ -103,10 +148,6 @@ See my [GitHub repositories](https://github.com/akshraj-05?tab=repositories) and
 - **CodeChef:** 3-Star, rating 1748.
 - **HackerRank:** 5-Star in C, C++, and SQL.
 
-<p align="center">
-  <img height="190em" src="https://leetcard.jacoblin.cool/akshraj_05?theme=light&font=Karma&ext=contest" alt="Akshraj's LeetCode statistics" />
-</p>
-
 ## Connect
 
 <p align="left">
@@ -118,11 +159,17 @@ See my [GitHub repositories](https://github.com/akshraj-05?tab=repositories) and
 
 ---
 
+## GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshraj-05&show_icons=true&hide_border=true" alt="Akshraj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshraj-05&show_icons=true&hide_border=true" alt="Akshraj's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshraj-05&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshraj-05&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshraj-05&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img height="190em" src="https://leetcard.jacoblin.cool/akshraj_05?theme=light&font=Karma&ext=contest" alt="Akshraj's LeetCode statistics" />
 </p>
