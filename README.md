@@ -170,5 +170,13 @@ I recommend keeping this section because it gives recruiters concrete examples o
 ## Most Used Programming Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshraj-05&layout=donut&langs_count=6&hide_border=true&theme=default" alt="Most used programming languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=2F81F7&center=true&vCenter=true&width=650&lines=Languages+I+build+with;Python+%E2%80%A2+Go+%E2%80%A2+C%2B%2B;JavaScript+%E2%80%A2+SQL" alt="Programming languages typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshraj-05&layout=donut-vertical&langs_count=6&hide_border=true&theme=default" alt="Most used programming languages based on GitHub repositories" />
+</p>
+
+<p align="center">
+  <sub>Language distribution is generated from repository code. The typing banner is animated; the language chart is a live-updating, static chart.</sub>
 </p>
