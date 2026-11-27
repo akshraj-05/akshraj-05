@@ -68,8 +68,6 @@ Primary author of the **IBM QRadar**, **IRONSCALES**, and **BeyondTrust EPM** in
 
 </details>
 
-*The three Elasticsearch backports are separate merged pull requests and are counted individually.*
-
 ---
 
 ## About Me
@@ -102,8 +100,6 @@ Primary author of the **IBM QRadar**, **IRONSCALES**, and **BeyondTrust EPM** in
 - Authored five agents: supervisor, analyzer, generator, reviewer, and tester, for an internal code-generation framework, reducing Elastic package authoring from 4 days to 15 minutes across 12 packages.
 
 ## Selected Backend and AI Projects
-
-I recommend keeping this section because it gives recruiters concrete examples of your independent engineering work beyond your day-to-day role.
 
 ### [Tool Router | Routing-as-a-Service for Large Tool Catalogs](https://github.com/akshraj-05/tool-router)
 **Python · FastAPI · MCP · Gemini · Docker**
@@ -156,15 +152,6 @@ I recommend keeping this section because it gives recruiters concrete examples o
   </a>
 </p>
 
-## Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/akshraj-chavda" target="_blank">LinkedIn</a> ·
-  <a href="https://github.com/akshraj-05" target="_blank">GitHub</a> ·
-  <a href="https://www.leetcode.com/akshraj_05" target="_blank">LeetCode</a> ·
-  <a href="mailto:akshrajchavda1520@gmail.com">Email</a>
-</p>
-
 ---
 
 ## Most Used Programming Languages
@@ -175,6 +162,13 @@ I recommend keeping this section because it gives recruiters concrete examples o
   </a>
 </p>
 
-<p align="center">
-  <sub>Shows the language distribution across public, non-forked repositories. Percentages are displayed in the chart legend. Select the chart to browse my repositories.</sub>
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/akshraj-chavda" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/akshraj-05" target="_blank">GitHub</a> ·
+  <a href="https://www.leetcode.com/akshraj_05" target="_blank">LeetCode</a> ·
+  <a href="mailto:akshrajchavda1520@gmail.com">Email</a>
 </p>
