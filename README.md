@@ -99,8 +99,8 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
 
 - **1,000+** LeetCode problems solved, including **175+ Hard**.
 - **400+ day** LeetCode streak.
-- **CodeChef:** 3-Star, rating 1748.
-- **HackerRank:** 5-Star in C, C++, and SQL.
+- **[CodeChef](https://www.codechef.com/users/akshraj_07):** 3-Star, rating 1748.
+- **[HackerRank](https://www.hackerrank.com/akshraj_05):** 5-Star in C, C++, and SQL.
 
 <p align="center">
   <a href="https://leetcode.com/u/akshraj_05/">
@@ -116,5 +116,7 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
   <a href="https://linkedin.com/in/akshraj-chavda" target="_blank">LinkedIn</a> ·
   <a href="https://github.com/akshraj-05" target="_blank">GitHub</a> ·
   <a href="https://leetcode.com/u/akshraj_05/" target="_blank">LeetCode</a> ·
+  <a href="https://www.codechef.com/users/akshraj_07" target="_blank">CodeChef</a> ·
+  <a href="https://www.hackerrank.com/akshraj_05" target="_blank">HackerRank</a> ·
   <a href="mailto:akshrajchavda1520@gmail.com">Email</a>
 </p>
