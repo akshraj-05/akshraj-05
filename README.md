@@ -92,12 +92,12 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
 
 <p align="center">
   <a href="https://leetcode.com/u/akshraj_05/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=339+Active+Days+in+the+Past+Year;1%2C000%2B+Problems+Solved;175%2B+Hard+Problems" alt="LeetCode problem solving animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=400%2B+Day+LeetCode+Streak;1%2C000%2B+Problems+Solved;175%2B+Hard+Problems" alt="LeetCode problem solving animation" />
   </a>
 </p>
 
 - **1,000+** LeetCode problems solved, including **175+ Hard**.
-- **339 active days** on LeetCode in the past year.
+- **400+ day** LeetCode streak.
 - **CodeChef:** 3-Star, rating 1748.
 - **HackerRank:** 5-Star in C, C++, and SQL.
 
