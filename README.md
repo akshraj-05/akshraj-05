@@ -112,11 +112,8 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/akshraj-chavda" target="_blank">LinkedIn</a> ·
-  <a href="https://github.com/akshraj-05" target="_blank">GitHub</a> ·
-  <a href="https://leetcode.com/u/akshraj_05/" target="_blank">LeetCode</a> ·
-  <a href="https://www.codechef.com/users/akshraj_07" target="_blank">CodeChef</a> ·
-  <a href="https://www.hackerrank.com/akshraj_05" target="_blank">HackerRank</a> ·
-  <a href="mailto:akshrajchavda1520@gmail.com">Email</a>
+<p align="center">
+  <a href="https://linkedin.com/in/akshraj-chavda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/akshraj_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:akshrajchavda1520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
