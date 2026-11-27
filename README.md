@@ -11,8 +11,6 @@
   <a href="https://leetcode.com/u/akshraj_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
----
-
 ## 🚀 Open Source
 
 **18 merged PRs across 4 Elastic repositories** (including 3 backports), authored from my [work account](https://github.com/search?q=org%3Aelastic+author%3Aakshraj-crest+is%3Apr+is%3Amerged&type=pullrequests).
@@ -60,8 +58,6 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
 
 </details>
 
----
-
 ## 🛠️ Projects
 
 | Project | What it does |
@@ -69,8 +65,6 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
 | 🧭 [**Tool Router**](https://github.com/akshraj-05/tool-router) | Picks the right tools for AI agents from large catalogs |
 | 🤝 [**HirePilot AI**](https://github.com/akshraj-05/hirepilot-ai) | AI-assisted resume screening and candidate review |
 | ⚡ [**Go + Kafka Pipeline**](https://github.com/akshraj-05/GoLang-Kafka-Streamline-Concurrency-in-Action) | Concurrent event validation and storage |
-
----
 
 ## 💻 Tech Stack
 
@@ -86,8 +80,6 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS" />
 </p>
-
----
 
 ## 🧠 Problem Solving
 
@@ -107,8 +99,6 @@ Primary author of the **IBM QRadar**, **IRONSCALES** and **BeyondTrust EPM** int
     <img src="https://leetcard.jacoblin.cool/akshraj_05?theme=light&font=Karma&ext=heatmap" alt="LeetCode activity heatmap and statistics" />
   </a>
 </p>
-
----
 
 ## 🤝 Let's Connect
 
