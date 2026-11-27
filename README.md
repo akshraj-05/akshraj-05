@@ -154,12 +154,25 @@ Primary author of the **IBM QRadar**, **IRONSCALES**, and **BeyondTrust EPM** in
 
 ---
 
-## Most Used Programming Languages
+## Core Engineering Stack
 
 <p align="center">
-  <a href="https://github.com/akshraj-05?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshraj-05&layout=donut&langs_count=6&hide_border=true&theme=default&size_weight=0.5&count_weight=0.5" alt="Most used programming languages with percentage breakdown" />
-  </a>
+  <strong>Primary languages</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python, primary language" />
+  <img src="https://img.shields.io/badge/Go-Primary-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go, primary language" />
+</p>
+
+<p align="center">
+  <strong>Additional languages</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Problem_Solving-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ for problem solving" />
+  <img src="https://img.shields.io/badge/JavaScript-Additional-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-Additional-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ---
